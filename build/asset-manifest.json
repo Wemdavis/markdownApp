@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Wemdavis.github.io/markdownApp/static/css/main.282d2f25.css",
-    "main.js": "/Wemdavis.github.io/markdownApp/static/js/main.c67a2a70.js",
-    "index.html": "/Wemdavis.github.io/markdownApp/index.html",
-    "main.282d2f25.css.map": "/Wemdavis.github.io/markdownApp/static/css/main.282d2f25.css.map",
-    "main.c67a2a70.js.map": "/Wemdavis.github.io/markdownApp/static/js/main.c67a2a70.js.map"
+    "main.css": "/Wemdavis.github.io/markdownApp.git/static/css/main.282d2f25.css",
+    "main.js": "/Wemdavis.github.io/markdownApp.git/static/js/main.c67a2a70.js",
+    "index.html": "/Wemdavis.github.io/markdownApp.git/index.html",
+    "main.282d2f25.css.map": "/Wemdavis.github.io/markdownApp.git/static/css/main.282d2f25.css.map",
+    "main.c67a2a70.js.map": "/Wemdavis.github.io/markdownApp.git/static/js/main.c67a2a70.js.map"
   },
   "entrypoints": [
     "static/css/main.282d2f25.css",
